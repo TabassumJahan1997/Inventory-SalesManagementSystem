@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Inventory&SalesManagement_API</name>
+    </assembly>
+    <members>
+        <member name="M:Inventory_SalesManagement_API.Controllers.ProductController.GetAll">
+            <summary>
+            Returns All Products Stored In Database 
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

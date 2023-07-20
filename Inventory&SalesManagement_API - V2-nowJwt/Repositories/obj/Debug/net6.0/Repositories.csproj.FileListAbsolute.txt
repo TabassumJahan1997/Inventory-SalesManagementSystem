@@ -1,0 +1,105 @@
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\bin\Debug\net6.0\DatabaseModels.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\bin\Debug\net6.0\DatabaseModels.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\bin\Debug\net6.0\DatabaseModels.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\bin\Debug\net6.0\DatabaseModels.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend\Inventory&SalesManagement_API - Copy\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\DatabaseModels.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\DatabaseModels.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\DatabaseModels.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\DatabaseModels.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-notworking\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\DatabaseModels.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\bin\Debug\net6.0\DatabaseModels.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\bin\Debug\net6.0\DatabaseModels.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\bin\Debug\net6.0\DatabaseModels.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\AdvanceProTask\Inventory&SalesManagementSystem\Backend - Repository-now-working\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\bin\Debug\net6.0\DatabaseModels.dll
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\bin\Debug\net6.0\DatabaseModels.pdb
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\New folder (2)\Inventory&SalesManagement_API - V2-nowJwt\Repositories\obj\Debug\net6.0\ref\Repositories.dll
